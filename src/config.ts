@@ -8,7 +8,7 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "Warrior",
+	title: "Yahia Khidour",
 	subtitle: "Blog",
 	lang: "en", // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko', 'es', 'th'
 	themeColor: {
@@ -16,8 +16,8 @@ export const siteConfig: SiteConfig = {
 		fixed: false, // Hide the theme color picker for visitors
 	},
 	banner: {
-		enable: false,
-		src: "assets/images/goofy.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+		enable: true,
+		src: "assets/images/banner.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 		position: "center", // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
 		credit: {
 			enable: false, // Display the credit text of the banner image
@@ -53,9 +53,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/goofy.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-	name: "Warrior",
-	bio: "Hey Im Warrior Hacker And Frontend Dev",
+	avatar: "assets/images/joker.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+	name: "Yahia Khidour",
+	bio: "Hey Im Yahia Hacker X Ctf Player",
 	links: [
 		{
 			name: "Twitter",

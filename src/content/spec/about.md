@@ -1,5 +1,5 @@
 # About
-This blog site for [Warrior](https://github.com/idkwhoiamx999).
+This blog site for [Yahia Khidour](https://github.com/idkwhoiamx999).
 
 <!-- ::github{repo="saicaca/fuwari"}
 
